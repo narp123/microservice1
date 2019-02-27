@@ -15,6 +15,7 @@
 * Modificar Bancos de Trabajo
 * Modificación Equipos Adicionales según disponibilidad.
 * Valorar estado de los equipos
-* Calificar estado de los equipos
-* Realizar comentario sobre algunas recomendaciones de uso de los equipos
-* **Consultar manuales**
+  * Calificar estado de los equipos
+  * Realizar comentario sobre algunas recomendaciones de uso de los equipos
+* Consultar manuales de los equipos
+* Consultar usuario
