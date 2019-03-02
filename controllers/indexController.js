@@ -1,7 +1,7 @@
 var indexController = {};
 
 indexController.home = function(req, res){
-  res.send({ status: true });
+  res.send({ status: 'ok' });
 };
 
 module.exports = indexController;
